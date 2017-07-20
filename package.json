@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "dmx-ui",
+        "scope": null,
+        "escapedName": "dmx-ui",
+        "name": "dmx-ui",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\FRTY\\Desktop\\news"
+    ]
+  ],
+  "_from": "dmx-ui@1.3.2",
+  "_id": "dmx-ui@1.1.0",
+  "_inCache": true,
+  "_location": "/dmx-ui",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/dmx-ui-1.1.0.tgz_1495872974802_0.6859915466047823"
+  },
+  "_npmUser": {
+    "name": "miaolong888",
+    "email": "87577080@qq.com"
+  },
+  "_npmVersion": "4.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "dmx-ui",
+    "scope": null,
+    "escapedName": "dmx-ui",
+    "name": "dmx-ui",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/dmx-ui/download/dmx-ui-1.3.2.tgz",
+  "_shasum": "e6f5b839e55c61321c249d932ce39f71604cdf37",
+  "_shrinkwrap": null,
+  "_spec": "dmx-ui",
+  "_where": "C:\\Users\\FRTY\\Desktop\\news",
+  "author": {
+    "name": "miaolong88688",
+    "email": "miaolong88688@163.com"
+  },
+  "dependencies": {
+    "vue": "^2.3.3"
+  },
+  "description": "Vue components",
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "^6.0.0",
+    "babel-preset-env": "^1.5.1",
+    "cross-env": "^3.0.0",
+    "css-loader": "^0.25.0",
+    "file-loader": "^0.9.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
+    "node-sass": "^4.5.0",
+    "sass-loader": "^5.0.1",
+    "vue-loader": "^12.1.0",
+    "vue-template-compiler": "^2.3.3",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e6f5b839e55c61321c249d932ce39f71604cdf37",
+    "tarball": "https://registry.npmjs.org/dmx-ui/-/dmx-ui-1.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "miaolong888",
+      "email": "87577080@qq.com"
+    }
+  ],
+  "name": "dmx-ui",
+  "optionalDependencies": {},
+  "private": false,
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules",
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot"
+  },
+  "version": "1.3.3"
+}
